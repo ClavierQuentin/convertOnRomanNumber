@@ -1,0 +1,13 @@
+
+body{
+    background-image: url("fond.jpg");
+    color: #141414;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+#block{
+    height: 350px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px ;
+}
